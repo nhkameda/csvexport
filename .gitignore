@@ -4,6 +4,12 @@ dist/
 *.log
 .DS_Store
 
+# Assets (not for public distribution)
+assets/
+webapp/assets/
+webapp/test/
+PROMPT_WEBAPP.md
+
 # Visual Studio
 .vs/
 *.suo

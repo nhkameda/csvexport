@@ -56,15 +56,6 @@ npm run dev
 
 Open http://localhost:5173 in your browser.
 
-### Validation
-
-Reference CSV files are included in `assets/csv/`. To verify the export logic against expected output:
-
-```bash
-cd webapp
-npx tsx test/validate.ts
-```
-
 ## Usage
 
 1. **Upload** an Altium Designer Pick & Place CSV file
@@ -76,10 +67,6 @@ npx tsx test/validate.ts
 ## Project Structure
 
 ```
-assets/
-  csv/          # Reference input/output CSV files
-  dll/          # Original csvexport.dll source code (C)
-  template/     # INI template files
 webapp/
   src/
     core/       # Parser, exporter, and template logic
@@ -90,7 +77,6 @@ webapp/
     src/
       components/   # React UI components
       App.tsx        # Main application
-  test/         # Validation tests
 ```
 
 ## Acknowledgments
