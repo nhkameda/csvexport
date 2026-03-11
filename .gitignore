@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Visual Studio
+.vs/
+*.suo
+*.obj
+*.o
+*.lib
+*.dll
+*.ipch
+*.iobj
+*.ipdb
+*.pdb
+*.res
+Release/
+Debug/

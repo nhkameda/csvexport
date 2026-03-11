@@ -1,0 +1,6 @@
+LIBRARY csvexport
+EXPORTS
+    vp_Info         @1
+    vp_Configure    @2
+    vp_WriteCentroid @3
+    vp_WriteBOM     @4

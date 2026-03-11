@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+D:\WOW\10.2_NanoDimmerEVO\02_Hardware\Project Outputs for NanoDimmerEVO\Pick Place\Pick Place for PCB_B.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/12/25
+Time:       18:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"FD1","Fiducial China","BottomLayer","fiducial_BASE","49.1747","61.9497","90",""
+"L2","PBY201209T-601Y-N","BottomLayer","INDC3216","47.3250","46.1500","270","600R 2A"
+"C16","100nF","BottomLayer","C0603_BASE","40.8972","46.8332","360","16V"
+"U5","IRM-10-5","TopLayer","IRM-10-5","9.5500","30.2500","270","Enclosed AC DC Converters 1 Output 5V - - - 2A 85 ~ 305 VAC, 120 ~ 430 VDC Input"
+"Q4","SS8050","BottomLayer","MMBT2222A","16.4750","44.9750","90","NPN General Prupose"
+"D6","1N4148W","BottomLayer","SOD123","31.8000","39.1750","180","General Purpose"
+"R15","200R","BottomLayer","R0603_BASE","12.4028","45.8918","180","5%"
+"L1","15uH","TopLayer","INDUTOR_5A","42.6500","40.3500","360","Inductor Toroidal 2A"
+"P2","Header 3X2","TopLayer","HDR2X3","44.7850","51.2300","360","Header 3xX2 Male 21mm"
+"D5","SMAZ16-13-F","BottomLayer","SMA","25.9521","42.8529","270","Zener 16V"
+"D4","1.5SMC600A","BottomLayer","DO-214AB","17.0500","17.7251","180","ESD Protection Diodes / TVS Diodes 1.5SMC - A 828V"
+"D2","SMAZ16-13-F","BottomLayer","SMA","7.6721","40.7771","360","Zener 16V"
+"D1","1.5SMC600A","BottomLayer","DO-214AB","7.5750","17.6750","360","ESD Protection Diodes / TVS Diodes 1.5SMC - A 828V"
+"C10","100nF","TopLayer","B32921","34.2250","29.0750","360","305VAC X2 EMI Suppression Capacitors"
+"C7","100nF","TopLayer","B32921","34.2250","22.7750","360","305VAC X2 EMI Suppression Capacitors"
+"P5","DG205-5.0-01P","TopLayer","WAGO_Cinza","32.1000","57.7732","90","Gray"
+"P1","DG205-5.0-01P","TopLayer","WAGO_Cinza","37.1000","57.7732","90","Gray"
+"U4","EL357N-G","BottomLayer","OPTO_EL357N-G","43.3250","13.9500","90","Transistor Output Optocouplers 50-600CTR 3750Vrms -55 to +100 Op Temp"
+"U3","MB6S","BottomLayer","SOIC245P670X270-4N","35.8250","11.1500","180","Bridge Rectifiers 0.5A Bridge"
+"RL1","HRS3FNH-S-DC5V-A","TopLayer","Rele_HRS3FN","32.3699","43.4951","90","10A Relay"
+"R1","33K","BottomLayer","RES_2512_2W","20.0250","9.5250","90","5%"
+"R10","33K","BottomLayer","R1206","20.9500","40.6000","180","5%"
+"R6","33K","BottomLayer","R1206","9.7061","50.2031","360","5%"
+"R7","220R","BottomLayer","RES_2512_2W","33.5000","19.6250","90","5%"
+"R14","220R","BottomLayer","RES_2512_2W","33.5000","28.7450","90","5%"
+"R2","33K","BottomLayer","RES_2512_2W","24.6230","9.5082","270","5%"
+"R13","499K","BottomLayer","R1206","30.7750","44.5250","90","5%"
+"R3","33K","BottomLayer","RES_2512_2W","29.2250","9.5082","270","5%"
+"R9","2K","BottomLayer","R0603_BASE","13.6778","41.1168","180","5%"
+"R11","10K","BottomLayer","R0603_BASE","8.3528","44.0918","180","5%"
+"Q2","OSG60R180KSF","BottomLayer","OSG60R180KSF","6.7250","30.9825","270","Enhancement Mode
+N-Channel Power MOSFET"
+"Q3","SS8050","BottomLayer","MMBT2222A","21.2750","45.9000","90","NPN General Prupose"
+"Q5","OSG60R180KSF","BottomLayer","OSG60R180KSF","21.2750","30.9825","270","Enhancement Mode
+N-Channel Power MOSFET"
+"P9","DG205-5.0-01P","TopLayer","WAGO_Laranja","22.1000","57.7732","90","Orange"
+"P8","DG205-5.0-01P","TopLayer","WAGO_Cinza_Escuro","27.1000","57.7732","90","Orange"
+"P6","DG205-5.0-01P","TopLayer","WAGO_Laranja","12.1000","57.7732","90","Orange"
+"P7","DG205-5.0-01P","TopLayer","WAGO_Cinza_Escuro","17.1000","57.7732","90","Orange"
+"D3","1N4148W","BottomLayer","SOD123","2.3000","41.0750","90","General Purpose"
+"C3","100nF","TopLayer","B32921","34.2500","16.4750","180","305VAC X2 EMI Suppression Capacitors"
+"C9","10uF","BottomLayer","C0603_BASE","4.7222","44.0918","360","16V"
+"FD2","Fiducial China","BottomLayer","fiducial_BASE","0.8253","0.8253","270",""
